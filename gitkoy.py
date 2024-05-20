@@ -1,1 +1,1 @@
-print('kelas a')
+print('kelas aQ')
