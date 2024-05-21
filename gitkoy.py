@@ -1,1 +1,0 @@
-print('kelas aQ')
